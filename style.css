@@ -1,0 +1,62 @@
+.text-bgcolor{
+    color: rgb(27, 173, 221);
+}
+.bg-color1{
+    background-color: rgb(72, 150, 214);
+}
+.bg-pic{
+    background-image:url(./OtherImages/background.jpg);
+    height: 400px;
+    width: 100%
+}
+.test-alingns{
+    color: white;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.textbg{
+    background-color: orange;
+}
+.textcol{
+    color: white;
+}
+.test-cont{
+    text-align: center;
+}
+.textorg{
+    color: orange;
+}
+.bg-color2{
+    background-color:orange;
+}
+.footer-color{
+    background-color: rgb(77, 73, 73);
+}
+.text-bgcolor2{
+    color: white;
+}
+.textbg1{
+    width: 50px;
+}
+.textbg2{
+    background-color: blue;
+}
+footer{
+    /* display: flex; */
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 75px;
+   
+}
+footer ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.colortext{
+color: rgb(78, 156, 219);
+}
+.fam{
+  font-family: cursive;
+}
